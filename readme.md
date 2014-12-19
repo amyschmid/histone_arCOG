@@ -11,7 +11,7 @@ Calculating enrichment in arCOG categories for Dulmage et al. " Growth phase spe
 
 - R (version 2.15.2 or higher) base package.
 
-## **Steps to recreate tables 2 and 3 (or your own arCOg enrichments):**
+## **Steps to recreate tables 2 and 3 (or your own arCOG enrichments):**
 
 - Load R data file containing cog file for H. salinarum (NRC-1\_arCOG\_2012\_final.Rdata) or download from Wolf et al., FTP site.
 - Run the command 'cogtest2' to generate arCOG enrichment table
