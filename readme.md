@@ -5,7 +5,7 @@ Calculating enrichment in arCOG categories for Dulmage et al. " Growth phase spe
 
 - This repository contains the code necessary to calculate statistically significant enrichment in arCOG functional categories. 
 - The code was used to generate tables 2 and 3 in the manuscript.
-- Raw cog data file for Halobacterium salinarum and other archaea can be downloaded from ftp://ftp.ncbi.nih.gov/pub/wolf/COGs/arCOG/ (see also Wolf et al., 2012, Biol Direct 7:46.
+- Raw cog data file for Halobacterium salinarum and other archaea can be downloaded from ftp://ftp.ncbi.nih.gov/pub/wolf/COGs/arCOG/ (see also Wolf et al., 2012, Biol Direct 7:46).
 
 ## **Dependencies**
 
